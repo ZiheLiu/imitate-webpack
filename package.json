@@ -1,0 +1,15 @@
+{
+  "name": "copy-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZiheLiu",
+  "license": "ISC",
+  "dependencies": {
+    "esprima": "^4.0.0",
+    "yargs": "^10.1.1"
+  }
+}
